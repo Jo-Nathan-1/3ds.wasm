@@ -2449,8 +2449,8 @@ attachCanvasInputHandlers();
 refreshSlots();
 updateSdStatus();
 updateUi();
-const HARDCODED_ROM_URL = "./ur-rom.3ds";
-const HARDCODED_ROM_NAME = "also-ur-rom.3ds";
+const HARDCODED_ROM_URL = "./rom.3ds";
+const HARDCODED_ROM_NAME = "rom.3ds";
 
 (async function autoBootRom() {
   try {
